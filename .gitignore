@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# raw media originals (large, kept locally only)
+/raw-media/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
